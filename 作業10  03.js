@@ -641,8 +641,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/作業10  03_atlas_1.png?1702361122706", id:"作業10  03_atlas_1"},
-		{src:"images/作業10  03_atlas_2.png?1702361122706", id:"作業10  03_atlas_2"}
+		{src:"images/作業10  03_atlas_1.png", id:"作業10  03_atlas_1"},
+		{src:"images/作業10  03_atlas_2.png", id:"作業10  03_atlas_2"}
 	],
 	preloads: []
 };
